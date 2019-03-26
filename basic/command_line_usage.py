@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#通过getopt模板解析命令行参数
 
 import sys, getopt
 
@@ -23,4 +24,3 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
-        
