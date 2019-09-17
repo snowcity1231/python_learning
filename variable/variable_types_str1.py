@@ -1,3 +1,4 @@
+# -*- coding:utf8 -*-
 # Python字符串
 str = "ihaveanapple"
 

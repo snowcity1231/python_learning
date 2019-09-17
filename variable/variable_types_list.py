@@ -1,3 +1,4 @@
+# -*- coding:utf8 -*-
 # python列表可以是不同的数据类型
 list = ['yes', 'no', 786, 3.14, 'tom', 70.2]
 tinylist = [100, 'jack']

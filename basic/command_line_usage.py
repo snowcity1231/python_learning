@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding:utf8 -*-
 #通过getopt模板解析命令行参数
 
 import sys, getopt

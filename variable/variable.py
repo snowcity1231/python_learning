@@ -1,3 +1,4 @@
+# -*- coding:utf8 -*-
 #  Python变量类型
 
 counter     = 100       #一个整型数
